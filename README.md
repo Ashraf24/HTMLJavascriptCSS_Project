@@ -1,5 +1,5 @@
 ## Project Name
-BASIC HTMLJavascriptCSS_Project
+BASIC HTML,Javascript,CSS,JQuery,RESFTful,PHP,MYSQL, TEST Project
 
 ## Objective
 
