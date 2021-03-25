@@ -124,7 +124,7 @@ Project is: in finished mode. object is fulfilled.
 
 Inspiration
 
-Project inspired by recent cutting edge technology 
+Project inspired by recent Technical Test for Task 1  and Task 2
 
 ## Contact
 Created by @ashraful24 - feel free to contact me!
