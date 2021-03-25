@@ -18,8 +18,15 @@ Front-end
 
 ## Setup
 
-extract the zip folder local server like WAMP,MAMP or XAMPP then from local server run homepage through any browser then navigate to page 1 or 2.
-test user form from page 1. also click to page2 for restful Api integration.
+step1:
+extract the zip folder local server like WAMP,MAMP or XAMPP. 
+
+step2:
+upload db.sql database in your mysql database. Put usernane, password of the local server as default. 
+
+step3:
+From local server run homepage through any browser then navigate to page 1 or 2.
+test user form from page 1. also click to page2 for restful Api integration which fetch images with title from external web link and parse data from JSON file.
 
 Code Examples of backend data stored.
 
