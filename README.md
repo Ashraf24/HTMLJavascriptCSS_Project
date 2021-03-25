@@ -3,9 +3,9 @@ BASIC HTMLJavascriptCSS_Project
 
 ## Objective
 
-** To demonstrate yourHTML5, CSS3 and JavaScript (jQuery) skills.
-** To demonstrate your understanding ofREST and SOAP APIs. 
-** To demonstrate yourfront-end and design skills.
+** To demonstrate HTML5, CSS3 and JavaScript (jQuery) skills.
+** To demonstrate understanding ofREST and SOAP APIs. 
+** To demonstrate front-end and design skills.
 
 ## Technologies
 
